@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente em transição de carreira
 - 🌱 Estudando HTML5 CSS3 e Javascript
-- 📫 Como me contactar: kaiquems.sousa@gmail.com   
+- 📫 Contato: kaiquems.sousa@gmail.com   
 
 <div align="center">
   <a href="https://github.com/kaiquemss">
