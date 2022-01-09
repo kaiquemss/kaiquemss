@@ -1,4 +1,4 @@
-### Olá! Eu so o Kaique 👋
+### Olá! Eu sou o Kaique 👋
 
 - 🔭 Atualmente em transição de carreira
 - 🌱 Estudando HTML5 CSS3 e Javascript
